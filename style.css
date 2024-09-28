@@ -1,0 +1,20 @@
+/* -------------------------courses start------------------------ */
+.courses img{
+    height: 200px !important;
+}
+.courses a{
+    text-decoration: none !important;
+    color: rgb(52, 52, 52);
+    transition: all 0.3s;
+}
+.courses h5 a:hover{
+    color: rgb(86, 71, 202);    
+}
+/* -------------------table basket------------------------ */
+table img{
+    width: 70px;
+    height: 60px;
+}
+table input{
+    width: 50px;
+}
